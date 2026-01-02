@@ -10,7 +10,7 @@ const Navbar = ({ lang, setLang, siteName }) => {
         {/* Logo and site name */}
         <div className="flex items-center gap-3 pr-4 border-r border-gray-300">
           <img
-            src="../public/logo.png"
+            src="/logo.png"
             alt="Jnanalaya Logo"
             className="h-12 w-auto"
           />
